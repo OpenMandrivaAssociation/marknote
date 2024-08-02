@@ -32,6 +32,7 @@ BuildRequires: cmake(KF6KirigamiAddons)
 BuildRequires: cmake(KPim6Mime)
 BuildRequires: %mklibname -d KF6BreezeIcons
 BuildRequires: pkgconfig(md4c)
+BuildRequires: pkgconfig(md4c-html)
 
 %description
 Write down your thoughts.
