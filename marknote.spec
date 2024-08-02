@@ -30,6 +30,7 @@ BuildRequires: cmake(KF6XmlGui)
 BuildRequires: cmake(KF6Crash)
 BuildRequires: cmake(KF6KirigamiAddons)
 BuildRequires: cmake(KPim6Mime)
+BuildRequires: %mklibname -d KF6BreezeIcons
 BuildRequires: pkgconfig(md4c)
 
 %description
