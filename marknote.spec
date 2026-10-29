@@ -29,7 +29,7 @@ BuildRequires: cmake(KF6ColorScheme)
 BuildRequires: cmake(KF6XmlGui)
 BuildRequires: cmake(KF6Crash)
 BuildRequires: cmake(KF6KirigamiAddons)
-BuildRequires: cmake(KPim6Mime)
+BuildRequires: cmake(KF6Mime)
 BuildRequires: %mklibname -d KF6BreezeIcons
 BuildRequires: pkgconfig(md4c)
 BuildRequires: pkgconfig(md4c-html)
@@ -47,3 +47,5 @@ headings, lists, check boxes, images and more.
 %{_datadir}/icons/hicolor/scalable/apps/org.kde.marknote.svg
 %{_datadir}/metainfo/org.kde.marknote.metainfo.xml
 %{_datadir}/qlogging-categories6/marknote.categories
+%{_datadir}/knotifications6/marknote.notifyrc
+%{_datadir}/krunner/dbusplugins/plasma-runner-marknote.desktop
