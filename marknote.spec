@@ -30,6 +30,8 @@ BuildRequires: cmake(KF6XmlGui)
 BuildRequires: cmake(KF6Crash)
 BuildRequires: cmake(KF6KirigamiAddons)
 BuildRequires: cmake(KF6Mime)
+BuildRequires: cmake(KF6Notifications)
+BuildRequires: cmake(KF6ItemModels)
 BuildRequires: %mklibname -d KF6BreezeIcons
 BuildRequires: pkgconfig(md4c)
 BuildRequires: pkgconfig(md4c-html)
