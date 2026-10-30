@@ -1,6 +1,6 @@
 Name: marknote
 Version: 1.6.0
-Release: 1
+Release: 2
 Source0: https://download.kde.org/stable/marknote/%{name}-%{version}.tar.xz
 Summary: Note taking tool with MarkDown formatting support
 URL: https://invent.kde.org/office/marknote
